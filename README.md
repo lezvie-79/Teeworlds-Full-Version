@@ -240,4 +240,4 @@ This repository serves as the official landing page for Teeworlds. The software 
 **Get the most recent version of Teeworlds today!**
 
 ---
-**Last updated:** 2026-10-07 16:01:09 UTC
+**Last updated:** 2026-10-07 21:43:46 UTC
